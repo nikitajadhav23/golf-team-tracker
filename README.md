@@ -1,2 +1,2 @@
 # golf-team-tracker
-A Web app to help track the completion of golf tests.
+Full-stack web application enabling coaches to assign custom tests and performance goals to players, with secure login and role-based access for coaches and athletes
